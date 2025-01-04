@@ -14,12 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Download dnsmasq-china-list 
-      run: |
-        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/accelerated-domains.china.conf
-        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/apple.china.conf
-        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/google.china.conf
-
     - name: Checkout code
       uses: actions/checkout@main
       with:
@@ -33,14 +27,22 @@ jobs:
     - name: Install dependencies
       run: pip3 install glob2
 
+    - name: Download dnsmasq-china-list 
+      run: |
+        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/accelerated-domains.china.conf
+        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/apple.china.conf
+        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/google.china.conf
+
     - name: Convert Conf Files
       env:
         CN_DNS: ${{ secrets.CN_DNS }}
         THE_DNS: ${{ secrets.THE_DNS }}
-      run: python convert.py
+      run: |
+        python convert.py
 
     - name: Check for changes
       run: |
+        rm ./*.china.conf
         if ! git diff --quiet; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
