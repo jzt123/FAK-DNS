@@ -55,37 +55,4 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
-
-  export_files:
-    name: Export files
-    needs: convert_conf_files
-    runs-on: ubuntu-latest
-    steps:
-    - name: Wait time
-      run: sleep 5s
-
-    - name: Checkout code
-      uses: actions/checkout@main
-      with:
-          ref: ${{ github.ref }}
-
-    - name: Set up Python
-      uses: actions/setup-python@main
-      with:
-        python-version: 3.12
-
-    - name: Install dependencies
-      run: pip3 install glob2
-
-    - name: Convert Conf Files
-      env:
-        CN_DNS: ${{ secrets.CN_DNS }}
-        THE_DNS: ${{ secrets.THE_DNS }}
-      run: python convert.py
-
-    - name: Create Artifacts
-      uses: actions/upload-artifact@main
-      with:
-        name: converted-files
-        path: converted
+        branch: main
