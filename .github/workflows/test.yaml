@@ -1,0 +1,19 @@
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - uses: ruby/setup-ruby@master
+      with:
+        ruby-version: '3.3'
+        bundler-cache: true
+    - name: Run tests
+      run: bundle exec sus
+    - name: gen hash
+      run: |
+        echo "hash=$(sha256sum accelerated-domains.china.conf)" >> $GITHUB_ENV
+    - uses: actions/upload-artifact@main
+      with:
+        name: ${{env.hash}}
+        path: /dev/null
