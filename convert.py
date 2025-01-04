@@ -20,8 +20,6 @@ def main():
     conf_files = glob.glob(os.path.join(current_directory, '*china.conf'))
     # 逐个读取文件内容
     for thefile in conf_files:
-        if os.path.basename(thefile) == 'bogus-nxdomain.china.conf':
-            continue
         txt_file = os.path.join(converted_directory, os.path.basename(thefile) + ".txt")  # 生成的 txt 文件路径
         convert_conf_to_txt(thefile, txt_file, cn_dns)
 

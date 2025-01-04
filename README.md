@@ -9,7 +9,7 @@ FAK-DNS for AdGuard Home
 
 文件截图如下
 
-![](https://s2.loli.net/2024/01/04/N4QkHzlaSCIDbrt.jpg)
+![](picture/file.jpg)
 
 Details
 =======
@@ -44,17 +44,17 @@ Usage
 
 根据[dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)的规则写了一个github action，自动同步它的新文件并建立AdGuard Home DNS规则。可以通过设置github自定义上游DOH/DOT服务器，默认国内走阿里DOH，国外走Cloudflare DOH。默认合并了googlehost，applehost，和国内域名。
 
-![](https://s2.loli.net/2024/01/02/86f3HDuQMzScewI.jpg)
+![](picture/github_setting.jpg)
 
 直接能用👉<https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt>
 如果你想自定义就fork一下，然后改一下，CN_DNS填国内的，THE_DNS是国外的，两者都可以添加多个，注意换行，每行填写一个。
 文件下载下来之后，进入AdGuard Home的目录，一般在/opt/AdGuardHome，编辑AdGuardHome.yaml
 
-![](https://s2.loli.net/2024/01/02/NmDTxR46sCGtked.jpg)
+![](picture/dir.jpg)
 
 填写配置文件
 
-![](https://s2.loli.net/2024/01/02/eh1NsW3p7IlMVdj.jpg)
+![](picture/conf.jpg)
 
 重启AdGuardHome就可以了
 
