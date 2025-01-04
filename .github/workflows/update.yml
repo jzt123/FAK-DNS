@@ -11,7 +11,6 @@ on:
 jobs:
   convert_conf_files:
     name: Convert conf files
-    needs: sync_latest_from_upstream
     runs-on: ubuntu-latest
     steps:
 
@@ -29,7 +28,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@main
       with:
-        python-version: 3.12
+        python-version: 3.13
 
     - name: Install dependencies
       run: pip3 install glob2
@@ -61,7 +60,7 @@ jobs:
 
   export_files:
     name: Export files
-    needs: [sync_latest_from_upstream, convert_conf_files]
+    needs: convert_conf_files
     runs-on: ubuntu-latest
     steps:
     - name: Wait time
