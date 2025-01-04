@@ -14,11 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - naem: Download dnsmasq-china-list 
-      uses: |
-      wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/accelerated-domains.china.conf
-      wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/apple.china.conf
-      wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/google.china.conf
+    - name: Download dnsmasq-china-list 
+      run: |
+        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/accelerated-domains.china.conf
+        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/apple.china.conf
+        wget https://github.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/google.china.conf
 
     - name: Checkout code
       uses: actions/checkout@main
