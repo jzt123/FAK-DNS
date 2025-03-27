@@ -1,4 +1,4 @@
-# 文件生成时间: 2025.03.25 02:11:52 UTC
+# 文件生成时间: 2025.03.27 02:11:05 UTC
 tls://1.0.0.1
 tls://101.101.101.101
 tls://8.8.4.4
@@ -9,6 +9,7 @@ quic://94.140.14.140
 [/2mdn.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/admob-cn.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/adservice.google.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
+[/app-analytics-services.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/app-measurement-cn.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/app-measurement.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/apps5.oingo.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
