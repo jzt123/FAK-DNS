@@ -1,4 +1,4 @@
-# 文件生成时间: 2025.05.25 02:30:36 UTC
+# 文件生成时间: 2025.05.27 02:20:42 UTC
 tls://1.0.0.1
 tls://101.101.101.101
 tls://8.8.4.4
@@ -33,6 +33,7 @@ quic://94.140.14.140
 [/cds.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/cds.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/cdsassets.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
+[/certs.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/cl1-cdn.origin-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/cl1.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
 [/cl2-cn.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
