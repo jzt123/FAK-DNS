@@ -1,173 +1,169 @@
-# 文件生成时间: 2025.08.05 02:41:04 UTC
-tls://1.0.0.1
-tls://101.101.101.101
-tls://8.8.4.4
-tls://208.67.222.2
-quic://94.140.14.140
-[/a1.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/a2.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/a3.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/a4.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/a5.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/adcdownload.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/adcdownload.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/amp-api-updates.apps.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/amp-api.media.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/app-site-association.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/appldnld.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/appldnld.g.aaplimg.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/appleid.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/apps.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/apps.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/bag-cdn.itunes-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdn-cn1.apple-mapkit.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdn-cn2.apple-mapkit.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdn-cn3.apple-mapkit.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdn-cn4.apple-mapkit.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdn.apple-mapkit.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdn1.apple-mapkit.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdn2.apple-mapkit.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdn3.apple-mapkit.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdn4.apple-mapkit.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cds-cdn.v.aaplimg.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cds.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cds.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cdsassets.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/certs.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl1-cdn.origin-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl1.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl2-cn.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl2.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl3-cdn.origin-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl3.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl4-cdn.origin-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl4-cn.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl4.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl5-cdn.origin-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cl5.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/clientflow.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/clientflow.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cn-smp-paymentservices.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/configuration.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/configuration.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/crl.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cstat.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/cstat.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/dd-cdn.origin-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/dejavu.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/devimages-cdn.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/devstreaming-cdn.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/download.developer.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/experiments.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gs-loc-cn.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gs-loc.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gsp10-ssl-cn.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gsp12-cn.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gsp13-cn.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gsp4-cn.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gsp5-cn.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gsp85-cn-ssl.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gspe19-2-cn-ssl.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gspe19-cn-ssl.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gspe19-cn.ls-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gspe19-cn.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gspe21-ssl.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gspe35-ssl.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/gspe79-cn-ssl.ls.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/guzzoni-apple-com.v.aaplimg.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/guzzoni.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/guzzoni.smoot.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/iadsdk.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/icloud-cdn.icloud.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/icloud.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/init-kt.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/init-p01md-lb.push-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/init-p01md.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/init-p01st-lb.push-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/init-p01st.push.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/init-s01st-lb.push-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/init-s01st.push.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/init.ess.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/iosapps.itunes.g.aaplimg.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/ipcdn.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/iphone-ld.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/iphone-ld.origin-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is1-ssl.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is1.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is2-ssl.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is2.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is3-ssl.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is3.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is4-ssl.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is4.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is5-ssl.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/is5.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/itunes-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/itunes.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/itunesconnect.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/mesu-cdn.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/mesu-china.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/mesu.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/ml.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/music.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/ocsp-lb.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/ocsp.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/ocsp2-lb.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/ocsp2.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/oscdn.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/oscdn.origin-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/osxapps.itunes.g.aaplimg.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/pancake.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/pancake.cdn-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/pba0.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/probe.siri.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/prod-support.apple-support.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/publicassets.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/reserve-prime.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/s.mzstatic.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/seed-sequoia.siri.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/seed-swallow.siri.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/seed.siri.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/sequoia.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/sh-pod2-smp-device.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/shazam-insights.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/smp-device-content.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/static.gc.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/stocks-sparkline-lb.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/stocks-sparkline.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/store.apple.com.edgekey.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/store.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/store.storeimages.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/store.storeimages.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/support-china.apple-support.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/support.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swallow-apple-com.v.aaplimg.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swallow.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swcatalog-cdn.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swcatalog.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swcdn.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swcdn.g.aaplimg.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swdist.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swdist.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swscan-cdn.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/swscan.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/sylvan.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/tj-pod1-smp-device.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/updates-http.cdn-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/updates-http.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/updates.cdn-apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/valid.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/valid.origin-apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/weather-data.apple.com.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/weather-data.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/weather-map.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/weather-map2.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/weatherkit.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/www.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
-[/xp.apple.com/]tls://dot.360.cn tls://dot.pub tls://dot-pure.onedns.net quic://223.6.6.6
+# 文件生成时间: 2025.09.02 07:32:14 UTC
+
+[/a1.mzstatic.com/]
+[/a2.mzstatic.com/]
+[/a3.mzstatic.com/]
+[/a4.mzstatic.com/]
+[/a5.mzstatic.com/]
+[/adcdownload.apple.com.akadns.net/]
+[/adcdownload.apple.com/]
+[/amp-api-updates.apps.apple.com/]
+[/amp-api.media.apple.com/]
+[/app-site-association.cdn-apple.com/]
+[/appldnld.apple.com/]
+[/appldnld.g.aaplimg.com/]
+[/appleid.cdn-apple.com/]
+[/apps.apple.com/]
+[/apps.mzstatic.com/]
+[/bag-cdn.itunes-apple.com.akadns.net/]
+[/cdn-cn1.apple-mapkit.com/]
+[/cdn-cn2.apple-mapkit.com/]
+[/cdn-cn3.apple-mapkit.com/]
+[/cdn-cn4.apple-mapkit.com/]
+[/cdn.apple-mapkit.com/]
+[/cdn1.apple-mapkit.com/]
+[/cdn2.apple-mapkit.com/]
+[/cdn3.apple-mapkit.com/]
+[/cdn4.apple-mapkit.com/]
+[/cds-cdn.v.aaplimg.com/]
+[/cds.apple.com.akadns.net/]
+[/cds.apple.com/]
+[/cdsassets.apple.com/]
+[/certs.apple.com/]
+[/cl1-cdn.origin-apple.com.akadns.net/]
+[/cl1.apple.com/]
+[/cl2-cn.apple.com/]
+[/cl2.apple.com/]
+[/cl3-cdn.origin-apple.com.akadns.net/]
+[/cl3.apple.com/]
+[/cl4-cdn.origin-apple.com.akadns.net/]
+[/cl4-cn.apple.com/]
+[/cl4.apple.com/]
+[/cl5-cdn.origin-apple.com.akadns.net/]
+[/cl5.apple.com/]
+[/clientflow.apple.com.akadns.net/]
+[/clientflow.apple.com/]
+[/cn-smp-paymentservices.apple.com/]
+[/configuration.apple.com.akadns.net/]
+[/configuration.apple.com/]
+[/crl.apple.com/]
+[/cstat.apple.com/]
+[/cstat.cdn-apple.com/]
+[/dd-cdn.origin-apple.com.akadns.net/]
+[/dejavu.apple.com/]
+[/devimages-cdn.apple.com/]
+[/devstreaming-cdn.apple.com/]
+[/download.developer.apple.com/]
+[/experiments.apple.com/]
+[/gs-loc-cn.apple.com/]
+[/gs-loc.apple.com/]
+[/gsp10-ssl-cn.ls.apple.com/]
+[/gsp12-cn.ls.apple.com/]
+[/gsp13-cn.ls.apple.com/]
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]
+[/gsp4-cn.ls.apple.com/]
+[/gsp5-cn.ls.apple.com/]
+[/gsp85-cn-ssl.ls.apple.com/]
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]
+[/gspe19-2-cn-ssl.ls.apple.com/]
+[/gspe19-cn-ssl.ls.apple.com/]
+[/gspe19-cn.ls-apple.com.akadns.net/]
+[/gspe19-cn.ls.apple.com/]
+[/gspe21-ssl.ls.apple.com/]
+[/gspe35-ssl.ls.apple.com/]
+[/gspe79-cn-ssl.ls.apple.com/]
+[/guzzoni-apple-com.v.aaplimg.com/]
+[/guzzoni.apple.com/]
+[/guzzoni.smoot.apple.com/]
+[/iadsdk.apple.com/]
+[/icloud-cdn.icloud.com.akadns.net/]
+[/icloud.cdn-apple.com/]
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]
+[/init-kt.apple.com/]
+[/init-p01md-lb.push-apple.com.akadns.net/]
+[/init-p01md.apple.com/]
+[/init-p01st-lb.push-apple.com.akadns.net/]
+[/init-p01st.push.apple.com/]
+[/init-s01st-lb.push-apple.com.akadns.net/]
+[/init-s01st.push.apple.com/]
+[/init.ess.apple.com/]
+[/iosapps.itunes.g.aaplimg.com/]
+[/ipcdn.apple.com/]
+[/iphone-ld.apple.com/]
+[/iphone-ld.origin-apple.com.akadns.net/]
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]
+[/is1-ssl.mzstatic.com/]
+[/is1.mzstatic.com/]
+[/is2-ssl.mzstatic.com/]
+[/is2.mzstatic.com/]
+[/is3-ssl.mzstatic.com/]
+[/is3.mzstatic.com/]
+[/is4-ssl.mzstatic.com/]
+[/is4.mzstatic.com/]
+[/is5-ssl.mzstatic.com/]
+[/is5.mzstatic.com/]
+[/itunes-apple.com.akadns.net/]
+[/itunes.apple.com/]
+[/itunesconnect.apple.com/]
+[/mesu-cdn.apple.com.akadns.net/]
+[/mesu-china.apple.com.akadns.net/]
+[/mesu.apple.com/]
+[/ml.cdn-apple.com/]
+[/music.apple.com/]
+[/ocsp-lb.apple.com.akadns.net/]
+[/ocsp.apple.com/]
+[/ocsp2-lb.apple.com.akadns.net/]
+[/ocsp2.apple.com/]
+[/oscdn.apple.com/]
+[/oscdn.origin-apple.com.akadns.net/]
+[/osxapps.itunes.g.aaplimg.com/]
+[/pancake.apple.com/]
+[/pancake.cdn-apple.com.akadns.net/]
+[/pba0.apple.com/]
+[/probe.siri.apple.com/]
+[/prod-support.apple-support.akadns.net/]
+[/publicassets.cdn-apple.com/]
+[/reserve-prime.apple.com/]
+[/s.mzstatic.com/]
+[/seed-sequoia.siri.apple.com/]
+[/seed-swallow.siri.apple.com/]
+[/seed.siri.apple.com/]
+[/sequoia.apple.com/]
+[/sh-pod2-smp-device.apple.com/]
+[/shazam-insights.cdn-apple.com/]
+[/smp-device-content.apple.com/]
+[/static.gc.apple.com/]
+[/stocks-sparkline-lb.apple.com.akadns.net/]
+[/stocks-sparkline.apple.com/]
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]
+[/store.apple.com.edgekey.net/]
+[/store.apple.com/]
+[/store.storeimages.apple.com.akadns.net/]
+[/store.storeimages.cdn-apple.com/]
+[/support-china.apple-support.akadns.net/]
+[/support.apple.com/]
+[/swallow-apple-com.v.aaplimg.com/]
+[/swallow.apple.com/]
+[/swcatalog-cdn.apple.com.akadns.net/]
+[/swcatalog.apple.com/]
+[/swcdn.apple.com/]
+[/swcdn.g.aaplimg.com/]
+[/swdist.apple.com.akadns.net/]
+[/swdist.apple.com/]
+[/swscan-cdn.apple.com.akadns.net/]
+[/swscan.apple.com/]
+[/sylvan.apple.com/]
+[/tj-pod1-smp-device.apple.com/]
+[/updates-http.cdn-apple.com.akadns.net/]
+[/updates-http.cdn-apple.com/]
+[/updates.cdn-apple.com/]
+[/valid.apple.com/]
+[/valid.origin-apple.com.akadns.net/]
+[/weather-data.apple.com.akadns.net/]
+[/weather-data.apple.com/]
+[/weather-map.apple.com/]
+[/weather-map2.apple.com/]
+[/weatherkit.apple.com/]
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]
+[/www.apple.com/]
+[/xp.apple.com/]
