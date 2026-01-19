@@ -1,4 +1,4 @@
-# 文件生成时间: 2026.01.17 02:25:53 UTC
+# 文件生成时间: 2026.01.19 02:38:50 UTC
 h3://8.8.8.8/dns-query
 
 
@@ -7714,6 +7714,7 @@ h3://8.8.8.8/dns-query
 [/88106.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/88116008.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/8811777.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/881812c.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/8821.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/8825.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/88303887.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -8465,6 +8466,7 @@ h3://8.8.8.8/dns-query
 [/962360.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/962518.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/962600.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/96262.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/96335.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/96355.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/96369.net/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -35299,6 +35301,7 @@ h3://8.8.8.8/dns-query
 [/fuca-china.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fucantec.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fuchaipower.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/fuchaoqun.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fuchen33.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fuchengshicai.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fuchuangyu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -45657,6 +45660,7 @@ h3://8.8.8.8/dns-query
 [/hlbe365.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hlbeixiu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hlbeixiu.net/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/hlbf.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hlblz.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hlbn.cc/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hlbryy.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -66234,6 +66238,7 @@ h3://8.8.8.8/dns-query
 [/miit-kjcg.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mij.cc/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mijewelries.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/miji8.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mijia.tech/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mijian360.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mijiannet.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -71023,6 +71028,7 @@ h3://8.8.8.8/dns-query
 [/nuomili.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/nuomiphp.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/nuomisi.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/nuona.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/nuonuo.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/nuoshell.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/nuoshou2023.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -81659,6 +81665,7 @@ h3://8.8.8.8/dns-query
 [/shanhs.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shanhu188.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shanhu99.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/shanhuijiangtang.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shanhuu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shanjianzhan.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shanjinqh.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -85809,6 +85816,7 @@ h3://8.8.8.8/dns-query
 [/starcharge.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/stardata360.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/starde.net/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/stardict.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/stardict.org/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/stardoctor.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/stards.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -96001,6 +96009,7 @@ h3://8.8.8.8/dns-query
 [/wengbi.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/wengegroup.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/wengem.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/wengkui.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/wengmeiling.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/wenguang.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/wenguangta.com/]https://120.53.53.53/dns-query quic://223.5.5.5
