@@ -1,4 +1,4 @@
-# 文件生成时间: 2026.02.01 03:37:06 UTC
+# 文件生成时间: 2026.02.03 03:18:47 UTC
 h3://8.8.8.8/dns-query
 
 
@@ -8861,6 +8861,7 @@ h3://8.8.8.8/dns-query
 [/9377os.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/9377s.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/9377z.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/9378.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/93913.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/939394.xyz/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/93966.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -22299,6 +22300,7 @@ h3://8.8.8.8/dns-query
 [/chmti.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/chn-cstc.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/chn-das.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/chn-new-9sport.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/chn0769.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/chn112.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/chn168.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -25151,6 +25153,7 @@ h3://8.8.8.8/dns-query
 [/cpeol.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cpepgc.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cpfia.org/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/cpfwzs.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cpg-motor.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cphfgg.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cphiic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -26097,6 +26100,7 @@ h3://8.8.8.8/dns-query
 [/cs27.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cs2c.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cs2ccloud.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/cs2pw.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cs30.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cs451.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cs48.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -28270,6 +28274,7 @@ h3://8.8.8.8/dns-query
 [/dealsmake.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/deansys.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dear520dear.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/dearclick.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dearda.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dearedu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dearisland.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -33404,6 +33409,7 @@ h3://8.8.8.8/dns-query
 [/excoino.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/exd.design/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/exdoll.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/exedus.com.co/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/exeedcars.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/exexm.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/exezhanqun.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -47377,6 +47383,7 @@ h3://8.8.8.8/dns-query
 [/horosama.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/horou.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/horphoto.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/horsebrowser.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/horsechinaone.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/horti-expo2019.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hortor-comic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -50495,6 +50502,7 @@ h3://8.8.8.8/dns-query
 [/ic-ldo.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ic-leasing.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ic-mag.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/ic-spic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ic-valley.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ic001.org/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ic2china.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -60308,6 +60316,7 @@ h3://8.8.8.8/dns-query
 [/kwaizt.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/kwangfeng.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/kwggroupholdings.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/kwicdn.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/kwimgs.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/kwinbon.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/kwise-log.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -73301,6 +73310,7 @@ h3://8.8.8.8/dns-query
 [/paihang8.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/paihb.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/paihotels.cc/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/paihuisy.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/paikew.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/paiky.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/paiky.net/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -73871,7 +73881,9 @@ h3://8.8.8.8/dns-query
 [/peipusci.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/peise.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/peisebiao.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/peiwan.tv/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/peiwanlu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/peiwantv.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/peixianedu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/peixiang.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/peixinbao.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -89860,6 +89872,7 @@ h3://8.8.8.8/dns-query
 [/tdchats.us/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tdchatvip.us/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tddmp.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/tdfsm.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tdgdy.org/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tdgod.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tdiac.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -92873,6 +92886,7 @@ h3://8.8.8.8/dns-query
 [/tv002.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tv121.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tv189.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/tv2-zuqiu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tv20806.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tv373.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tvandnet.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -100551,6 +100565,7 @@ h3://8.8.8.8/dns-query
 [/xhytd.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xhyun.vip/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xhzysg.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/xi-9.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xi-soft.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xi.su/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xi5jie.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -107389,6 +107404,7 @@ h3://8.8.8.8/dns-query
 [/yousheyoujia.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/youshibeike.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/youshifu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/youshihui.cc/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/youshikoudai.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/youshixiu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/youshop01.com/]https://120.53.53.53/dns-query quic://223.5.5.5
