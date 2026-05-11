@@ -1,4 +1,4 @@
-# 文件生成时间: 2026.05.09 04:02:36 UTC
+# 文件生成时间: 2026.05.11 04:43:27 UTC
 h3://8.8.8.8/dns-query
 
 
@@ -27,9 +27,7 @@ h3://8.8.8.8/dns-query
 [/clickserver.googleads.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/clientservices.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/cn.widevine.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/cnappinstall.googleadapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/connectivitycheck.gstatic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/content.googleadapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/crashlyticsreports-pa.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/crl.pki.goog/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/csi.gstatic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -40,9 +38,7 @@ h3://8.8.8.8/dns-query
 [/doubleclick-cn.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/doubleclick.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/download.mlcc.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/download.qatp1.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/download.tensorflow.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/emmapplecodevice.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/firebase-settings.crashlytics.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fontfiles.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fonts.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -51,7 +47,6 @@ h3://8.8.8.8/dns-query
 [/g1.gstatic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/g2.gstatic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/g3.gstatic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/go.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gonglchuangl.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gongyichuangyi.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/google-analytics-cn.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -79,11 +74,6 @@ h3://8.8.8.8/dns-query
 [/gvt1-cn.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gvt2-cn.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/imasdk.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/l2-uberproxy.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/logger-dev.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/logger.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/login.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/monitoring.qpdp1.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ocsp.pki.goog/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/pagead-googlehosted.l.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/performanceparameters.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -91,15 +81,8 @@ h3://8.8.8.8/dns-query
 [/prod-controlbe.floonet.goog/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/prod-databe.floonet.goog/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/prod.databe.floonet.goog/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/proxyconfig.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/qagpublic.qatp1.net/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/qgadmin.qcpp1.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/qiao-cn.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/qpx.googleflights.net/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/qualysapi.qatp1.net/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/qualysguard.qpdp1.net/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/r.cert.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/rapture-prod.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/recaptcha-cn.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/recaptcha.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/redirector.bdn.dev/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -115,27 +98,14 @@ h3://8.8.8.8/dns-query
 [/redirector.xn--ngstr-lra8j.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/safebrowsing-cache.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/safebrowsing.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/scanservice1.qcpp1.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/service.urchin.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ssl-google-analytics.l.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ssl.gstatic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/sslredirect.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/staging-controlbe.floonet.goog/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/staging-databe.floonet.goog/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/staging.databe.floonet.goog/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/streaming-uberproxy-rotation.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/streaming-uberproxy.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/sup-ssh-relay.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/sup-ssh-relay2.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/sup.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/sup.l.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tac.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/test.gbugs-qa.chromium.org/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/tools.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/tools.l.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/uberproxy-debug4.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/uberproxy.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/uberproxy6.corp.google.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/update.crashlytics.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/update.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/wear.googleapis.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -144,4 +114,3 @@ h3://8.8.8.8/dns-query
 [/www.destinationurl.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/www.gstatic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/www.pxcc.com/]https://120.53.53.53/dns-query quic://223.5.5.5
-[/xn--flw351e.com/]https://120.53.53.53/dns-query quic://223.5.5.5
