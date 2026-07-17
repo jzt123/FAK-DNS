@@ -1,4 +1,4 @@
-# 文件生成时间: 2026.07.15 03:44:16 UTC
+# 文件生成时间: 2026.07.17 03:46:05 UTC
 h3://8.8.8.8/dns-query
 
 
@@ -28036,6 +28036,7 @@ h3://8.8.8.8/dns-query
 [/dcyz.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dcyzq.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dczcsc.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/dczcy.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dczkj.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dczy168.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dd-advisor.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -29022,6 +29023,7 @@ h3://8.8.8.8/dns-query
 [/didichuxing.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dididapiao.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/dididi88.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/didifinance.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/didiglobal.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/didimobility.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/didiopenapi.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -35820,6 +35822,7 @@ h3://8.8.8.8/dns-query
 [/fuca-china.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fucantec.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fuchaipower.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/fuchenkj.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fuchuangyu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fucnm.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/fucol.club/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -53596,6 +53599,7 @@ h3://8.8.8.8/dns-query
 [/jieshui8.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/jieshuitech.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/jieshuwang.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/jietianz.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/jietu365.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/jietuhb.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/jietuosh.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -79336,6 +79340,7 @@ h3://8.8.8.8/dns-query
 [/sdseshealth.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/sdsfjy.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/sdshangya.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/sdshdc.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/sdshgk.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/sdshihua.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/sdshitu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -81020,6 +81025,7 @@ h3://8.8.8.8/dns-query
 [/shicaizhanlan.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shicehao.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shichangbu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/shicheng6.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shichengbao.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shichengyi.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shichuangsj.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -91446,6 +91452,7 @@ h3://8.8.8.8/dns-query
 [/ulikestatic.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ulinix.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ulinix.tv/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/ulongemg.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ulpay.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ultracachenode.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ultraeda.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -106206,6 +106213,7 @@ h3://8.8.8.8/dns-query
 [/yximgs.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yxin18.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yxinbao.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/yxingfan.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yxintent.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yxit.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yxixy.com/]https://120.53.53.53/dns-query quic://223.5.5.5
