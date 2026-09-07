@@ -1,4 +1,4 @@
-# 文件生成时间: 2026.09.05 04:49:27 UTC
+# 文件生成时间: 2026.09.07 05:03:09 UTC
 h3://8.8.8.8/dns-query
 
 
@@ -7001,6 +7001,7 @@ h3://8.8.8.8/dns-query
 [/602ab6ff810251.beer/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/602img.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/60301c31eca86940.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/60353595.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/603603b.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/603603d.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/603966.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -32658,6 +32659,7 @@ h3://8.8.8.8/dns-query
 [/eqxiuzhan.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/eqyn.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/er07.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/er3w.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/eraclean.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/eraedu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/eral.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -38596,6 +38598,7 @@ h3://8.8.8.8/dns-query
 [/gomegj.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gomeholdings.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gomehome.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/gomeishop.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gomeplus.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gomo.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gomocdn.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -39366,6 +39369,7 @@ h3://8.8.8.8/dns-query
 [/gu166.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gu360.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/gua123.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/gua9.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/guabu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/guaguay.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/guahao-inc.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -48566,6 +48570,7 @@ h3://8.8.8.8/dns-query
 [/hyhro.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hyhscm.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hyht.fun/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/hyhudong.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hyhuo.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hyhxt.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/hyhy.cc/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -50501,6 +50506,7 @@ h3://8.8.8.8/dns-query
 [/img16888.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/img4399.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/img898.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/img9g2026.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/imgbed.link/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/imgcdc.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/imgchr.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -58187,6 +58193,7 @@ h3://8.8.8.8/dns-query
 [/kscloudapi.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ksco.cc/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ksdedu.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/ksdyob.store/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ksecit.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/ksedt.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/kseibitools.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -62785,6 +62792,7 @@ h3://8.8.8.8/dns-query
 [/lygsgt.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/lygshjd.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/lygshlxh.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/lygtylk.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/lygxwmarathon.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/lygxwxqrmyy.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/lygyyjt.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -63987,6 +63995,7 @@ h3://8.8.8.8/dns-query
 [/mcfun.tv/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mcfxw.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mcgsjt.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/mcgyaht1023.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mchifi.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mchim.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mchost.guru/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -64128,6 +64137,7 @@ h3://8.8.8.8/dns-query
 [/mediav.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mediaxinan.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/medical-union.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/medicalimagecloud.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/medicalqc.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/medicexam.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/mediecogroup.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -69276,6 +69286,7 @@ h3://8.8.8.8/dns-query
 [/nordkete.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/nordonfire.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/nordritools.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/norglo.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/norinco-vehicle.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/norinco.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/norincogroup-ebuy.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -69842,6 +69853,7 @@ h3://8.8.8.8/dns-query
 [/oborad.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/obowin.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/obrao.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/obriccloud.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/obsapp.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/obsbot.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/obsidian-display.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -80961,6 +80973,7 @@ h3://8.8.8.8/dns-query
 [/shougongke.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shougoumingbiao.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shouhaoche.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/shouhou.xin/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shouhougou.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shouhui.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/shouhuigroup.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -92647,6 +92660,7 @@ h3://8.8.8.8/dns-query
 [/vvbin.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/vvebo.vip/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/vvfeng.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/vvghj1023.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/vvgroup.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/vvhan.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/vvhunter.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -94640,6 +94654,7 @@ h3://8.8.8.8/dns-query
 [/whjuren.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/whjxbaby.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/whjy.net/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/whjyapp.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/whjyx.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/whjyxh.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/whjyxx.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -99453,6 +99468,7 @@ h3://8.8.8.8/dns-query
 [/xmalaya.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xmamiga.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xmanblog.net/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/xmaosms.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xmasg.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xmayitxt.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/xmbankonline.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -102011,6 +102027,7 @@ h3://8.8.8.8/dns-query
 [/yetu.net/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yew734.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yewanba.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/yewcdn.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yewen.us/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yewuyuan.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/yexinggroup.com/]https://120.53.53.53/dns-query quic://223.5.5.5
@@ -107819,6 +107836,7 @@ h3://8.8.8.8/dns-query
 [/zhongguowangshi.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/zhongguoym.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/zhonggushipping.com/]https://120.53.53.53/dns-query quic://223.5.5.5
+[/zhonghaiqishengkeji.xyz/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/zhonghaitech.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/zhonghaojituan.com/]https://120.53.53.53/dns-query quic://223.5.5.5
 [/zhonghengyiyao.com/]https://120.53.53.53/dns-query quic://223.5.5.5
